@@ -1,4 +1,5 @@
 cd ~
+sudo apt-get install git
 sudo apt-get -y upgrade
 cd avs
 wget https://raw.githubusercontent.com/alexa/avs-device-sdk/master/tools/Install/setup.sh
