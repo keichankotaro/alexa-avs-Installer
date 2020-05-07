@@ -16,5 +16,5 @@ cd ~ && sudo apt -y install git && cd ~/avs && wget https://github.com/keisukeki
 ```
 Please run installer.sh when that is done ↓
 ```
-chmod +x installer.sh && ./installer.sh
+sudo chmod +x Installer.sh && ./Installer.sh
 ```
